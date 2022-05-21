@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Git Repositories</string>
+    <string name="network_error">Oops! you are not connected to internet.</string>
+    <string name="btn_text_retry">Retry</string>
 </resources>
